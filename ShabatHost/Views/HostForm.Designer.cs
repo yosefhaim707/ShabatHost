@@ -50,6 +50,7 @@
             button_Enter.TabIndex = 6;
             button_Enter.Text = "Enter";
             button_Enter.UseVisualStyleBackColor = true;
+            button_Enter.Click += button_Enter_Click;
             // 
             // textBox_Insert
             // 
